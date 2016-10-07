@@ -1,0 +1,71 @@
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.exe
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.pdb
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.xml
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.Form1.resources
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.Resources.resources
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+C:\Users\ABHISHEK\Desktop\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.exe
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.pdb
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.xml
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.Form1.resources
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.Resources.resources
+I:\Personal Datas\Projects\Project\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.vbproj.GenerateResource.Cache
+E:\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+E:\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+E:\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+E:\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.exe
+E:\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.pdb
+E:\ScreenShot\screenshot\screenshot\bin\Debug\screenshot.xml
+E:\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.Form1.resources
+E:\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.Resources.resources
+E:\ScreenShot\screenshot\screenshot\obj\x86\Debug\screenshot.vbproj.GenerateResource.Cache
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+E:\ScreenShot Software\screenshot\screenshot\bin\Debug\screenshot.exe
+E:\ScreenShot Software\screenshot\screenshot\bin\Debug\screenshot.pdb
+E:\ScreenShot Software\screenshot\screenshot\bin\Debug\screenshot.xml
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.Form1.resources
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.Resources.resources
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.vbproj.GenerateResource.Cache
+E:\ScreenShot Software\screenshot\screenshot\bin\Debug\screenshot.exe.config
+E:\ScreenShot Software\screenshot\screenshot\obj\x86\Debug\screenshot.vbprojResolveAssemblyReference.cache
+E:\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.exe.config
+E:\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+E:\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+E:\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+D:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.exe.config
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+D:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.exe
+D:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.pdb
+D:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.xml
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.Form1.resources
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.Resources.resources
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+E:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.exe.config
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
+E:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.exe
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.vbprojResolveAssemblyReference.cache
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.Form1.resources
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.Resources.resources
+E:\VB Project\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.vbproj.GenerateResource.Cache
+E:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.pdb
+E:\VB Project\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.xml
+H:\ScreenShot Program\screenshot\screenshot\bin\Debug\screenshot.exe.config
+H:\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.exe
+H:\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.xml
+H:\ScreenShot Program\screenshot\screenshot\obj\x86\Debug\screenshot.pdb
